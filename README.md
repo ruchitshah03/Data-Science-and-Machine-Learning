@@ -1,5 +1,10 @@
 # mie1624
 MIE1624
 
-The Assignment 1 for the MIE1624 course which shows the analysis of the kaggle survey 2020. 
+Statistical Analysis of the Kaggle Data Scientist 2020 Survey
+• Used scipy library and analyze the dataset of survey based on Age, ML experience, salary, country, and other aspects.
+• Performed hypothesis testing using two-sample-t-test and ANOVA variance analysis.
+• Statistically compared the salary based on the Gender and Education.
+• Explored the data using matplotlib and seaborn.
+
 Simply run the python notebook to view the results.
