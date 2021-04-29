@@ -1,6 +1,3 @@
-# mie1624
-MIE1624
-
 Statistical Analysis of the Kaggle Data Scientist 2020 Survey
 • Used scipy library and analyze the dataset of survey based on Age, ML experience, salary, country, and other aspects.
 • Performed hypothesis testing using two-sample-t-test and ANOVA variance analysis.
